@@ -1,0 +1,15 @@
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\bin\Debug\net6.0\Task1.exe
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\bin\Debug\net6.0\Task1.dll
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\bin\Debug\net6.0\Task1.pdb
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\Task1.dll
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\Task1.pdb
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\все\GeekBrains\Новая папка\Сsharp\Семинары\8\CsharpHW8\Task1\obj\Debug\net6.0\ref\Task1.dll
